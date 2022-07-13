@@ -1,4 +1,4 @@
-Hi 👋 My name is Gokul Kumar
+Hi 👋 I'm Gokul Kumar
 ============================
 
 Full Stack Developer
