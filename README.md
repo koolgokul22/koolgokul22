@@ -6,7 +6,7 @@ Full Stack Developer
 
 * 🌍  I'm based in Benagaluru
 * ✉️  You can contact me at [rsgokulkumar@gmail.com](mailto:rsgokulkumar@gmail.com)
-* 🧠  I'm learning Angular, NodeJS
+* 🧠  Angular, NodeJS, MEAN 
 
 ### Skills
 
