@@ -34,6 +34,8 @@ Full Stack Developer
 
 ### Badges
 
+[![@koolgokul's Holopin board](https://holopin.io/api/user/board?user=koolgokul)](https://holopin.io/@koolgokul)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/koolgokul22"><img src="https://github-readme-stats.vercel.app/api?username=koolgokul22&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="koolgokul22's GitHub stats" /></a>
