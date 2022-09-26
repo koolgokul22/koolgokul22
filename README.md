@@ -35,6 +35,10 @@ Full Stack Developer
 ### Badges
 
 [![@koolgokul's Holopin board](https://holopin.io/api/user/board?user=koolgokul)](https://holopin.io/@koolgokul)
+<a href="https://dev.to/koolgokul22" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--mvoi2vUk--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" alt="One Year" /></a>
+
+<a href="https://dev.to/koolgokul22" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="HacktoberFest" /></a>
+
 
 <b>My GitHub Stats</b>
 
