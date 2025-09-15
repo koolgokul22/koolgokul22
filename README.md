@@ -1,7 +1,7 @@
 Hi 👋 I'm Gokul Kumar
 ============================
 
-Full Stack Developer
+Full Stack Engineer
 --------------------
 
 * 🌍  I'm based in Benagaluru
